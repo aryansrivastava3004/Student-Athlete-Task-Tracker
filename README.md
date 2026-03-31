@@ -39,16 +39,16 @@ All data is stored locally, ensuring progress is saved between sessions.
 
 ## ⚙️ Setup & Installation
 
-### Prerequisites
+**Prerequisites:**
+* You must have Python installed on your system (Python 3.6 or higher is recommended).
+* No external libraries are required; this tool is built entirely using Python's standard library.
 
-- Python 3.6 or higher installed  
-- No external libraries required (uses Python standard library)
+**Installation Steps:**
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Saur-bh-jpg/student-athlete-task-tracker
 
----
+2. Navigate into the project directory:
 
-### Installation Steps
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/Saur-bh-jpg/student-athlete-task-tracker
+   ```bash 
+   cd student-athlete-task-tracker
