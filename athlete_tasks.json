@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "study 2hrs",
+        "category": "Academic",
+        "due_date": "2026/3/31",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Hit Gym today",
+        "category": "Fitness",
+        "due_date": "2026/3/31",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "buy 3 boiled eggs and milk ",
+        "category": "nutrition",
+        "due_date": "2026/4/1",
+        "completed": false
+    }
+]
